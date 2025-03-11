@@ -2,5 +2,7 @@ class Main{
 
     public static void main(String args[]){
         System.out.println("show me the strength");
+
+        System.out.println("nice try");
     }
 }
